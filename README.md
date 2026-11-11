@@ -1,4 +1,4 @@
-# Project 1 — Failed Login Attempts Detection & Monitoring
+# Project 1 — SIEM Monitoring & SOC Operational Readiness Validation Lab
 
 # Description
 
